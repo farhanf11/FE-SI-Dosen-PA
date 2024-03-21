@@ -1,0 +1,25 @@
+.bg-app{
+    background-color: #DBF8FF;
+  }
+.bg-register{
+  background-color: #DBF8FF;
+  opacity: 60%;
+  background-image: url(https://images.unsplash.com/photo-1627556704302-624286467c65?q=80&w=2487&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+  
+  .formContainer {
+    box-shadow : 1px 1px 16px #7a7a7a;
+    background-color: DBF8FF;
+    margin:10vh auto;
+    padding:20px;
+    border-radius:10px 10px 10px 10px;
+    }
+  
+  .form-input{
+    background-color: white;
+    opacity: 70%;
+  }
+
+  .form-register{
+    background-color: white;
+  }
